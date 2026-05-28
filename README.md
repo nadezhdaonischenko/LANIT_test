@@ -5,12 +5,12 @@
 
 ## 🔗 Ссылки на материалы
 
-* 📊 **Задание 1:** [Google Таблица с решением](https://docs.google.com/spreadsheets/d/1awweIsmdkyvZ0QHSDSxIyU3WDWxgzyITBnZV-Z8SIIM/edit?usp=sharing)
-* 📈 **Задание 2 (Дашборд):** [Локальный дашборд Metabase](http://localhost:3000/public/dashboard/ce3d1bf4-de15-4041-b5e4-a0621bcd6173)
+* 📊 **Задание 1/2:** [Google Таблица с решением](https://docs.google.com/spreadsheets/d/1awweIsmdkyvZ0QHSDSxIyU3WDWxgzyITBnZV-Z8SIIM/edit?usp=sharing)
+* 📈 **Задание 3 (Дашборд):** [Локальный дашборд Metabase](http://localhost:3000/public/dashboard/ce3d1bf4-de15-4041-b5e4-a0621bcd6173)
  
   *(Дополнительно в репозиторий приложены файлы вкладок в формате [PDF в папке /Dashboard](./Dashboard))*
   
-* 🐍 **Задание 3:** Скрипты автоматизации приложены в репозиторий в [папке /Python](./Python)
+* 🐍 **Задание 4:** Скрипты автоматизации приложены в репозиторий в [папке /Python](./Python)
 
 ---
 
